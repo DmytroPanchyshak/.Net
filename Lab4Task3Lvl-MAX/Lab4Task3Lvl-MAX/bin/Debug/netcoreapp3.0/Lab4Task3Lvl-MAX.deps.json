@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Lab4Task3Lvl-MAX/1.0.0": {
+        "runtime": {
+          "Lab4Task3Lvl-MAX.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab4Task3Lvl-MAX/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

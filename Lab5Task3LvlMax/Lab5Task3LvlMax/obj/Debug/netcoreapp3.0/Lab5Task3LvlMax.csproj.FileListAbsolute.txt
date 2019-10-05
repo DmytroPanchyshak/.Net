@@ -1,0 +1,11 @@
+C:\Users\dsx\source\repos\Lab5Task3LvlMax\Lab5Task3LvlMax\bin\Debug\netcoreapp3.0\Lab5Task3LvlMax.exe
+C:\Users\dsx\source\repos\Lab5Task3LvlMax\Lab5Task3LvlMax\bin\Debug\netcoreapp3.0\Lab5Task3LvlMax.deps.json
+C:\Users\dsx\source\repos\Lab5Task3LvlMax\Lab5Task3LvlMax\bin\Debug\netcoreapp3.0\Lab5Task3LvlMax.runtimeconfig.json
+C:\Users\dsx\source\repos\Lab5Task3LvlMax\Lab5Task3LvlMax\bin\Debug\netcoreapp3.0\Lab5Task3LvlMax.runtimeconfig.dev.json
+C:\Users\dsx\source\repos\Lab5Task3LvlMax\Lab5Task3LvlMax\bin\Debug\netcoreapp3.0\Lab5Task3LvlMax.dll
+C:\Users\dsx\source\repos\Lab5Task3LvlMax\Lab5Task3LvlMax\bin\Debug\netcoreapp3.0\Lab5Task3LvlMax.pdb
+C:\Users\dsx\source\repos\Lab5Task3LvlMax\Lab5Task3LvlMax\obj\Debug\netcoreapp3.0\Lab5Task3LvlMax.AssemblyInfoInputs.cache
+C:\Users\dsx\source\repos\Lab5Task3LvlMax\Lab5Task3LvlMax\obj\Debug\netcoreapp3.0\Lab5Task3LvlMax.AssemblyInfo.cs
+C:\Users\dsx\source\repos\Lab5Task3LvlMax\Lab5Task3LvlMax\obj\Debug\netcoreapp3.0\Lab5Task3LvlMax.dll
+C:\Users\dsx\source\repos\Lab5Task3LvlMax\Lab5Task3LvlMax\obj\Debug\netcoreapp3.0\Lab5Task3LvlMax.pdb
+C:\Users\dsx\source\repos\Lab5Task3LvlMax\Lab5Task3LvlMax\obj\Debug\netcoreapp3.0\Lab5Task3LvlMax.csprojAssemblyReference.cache

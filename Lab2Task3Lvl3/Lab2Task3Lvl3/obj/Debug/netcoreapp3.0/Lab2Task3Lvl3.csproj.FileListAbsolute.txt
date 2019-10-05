@@ -1,0 +1,11 @@
+C:\Users\dsx\source\repos\Lab2Task3Lvl3\Lab2Task3Lvl3\bin\Debug\netcoreapp3.0\Lab2Task3Lvl3.exe
+C:\Users\dsx\source\repos\Lab2Task3Lvl3\Lab2Task3Lvl3\bin\Debug\netcoreapp3.0\Lab2Task3Lvl3.deps.json
+C:\Users\dsx\source\repos\Lab2Task3Lvl3\Lab2Task3Lvl3\bin\Debug\netcoreapp3.0\Lab2Task3Lvl3.runtimeconfig.json
+C:\Users\dsx\source\repos\Lab2Task3Lvl3\Lab2Task3Lvl3\bin\Debug\netcoreapp3.0\Lab2Task3Lvl3.runtimeconfig.dev.json
+C:\Users\dsx\source\repos\Lab2Task3Lvl3\Lab2Task3Lvl3\bin\Debug\netcoreapp3.0\Lab2Task3Lvl3.dll
+C:\Users\dsx\source\repos\Lab2Task3Lvl3\Lab2Task3Lvl3\bin\Debug\netcoreapp3.0\Lab2Task3Lvl3.pdb
+C:\Users\dsx\source\repos\Lab2Task3Lvl3\Lab2Task3Lvl3\obj\Debug\netcoreapp3.0\Lab2Task3Lvl3.AssemblyInfoInputs.cache
+C:\Users\dsx\source\repos\Lab2Task3Lvl3\Lab2Task3Lvl3\obj\Debug\netcoreapp3.0\Lab2Task3Lvl3.AssemblyInfo.cs
+C:\Users\dsx\source\repos\Lab2Task3Lvl3\Lab2Task3Lvl3\obj\Debug\netcoreapp3.0\Lab2Task3Lvl3.dll
+C:\Users\dsx\source\repos\Lab2Task3Lvl3\Lab2Task3Lvl3\obj\Debug\netcoreapp3.0\Lab2Task3Lvl3.pdb
+C:\Users\dsx\source\repos\Lab2Task3Lvl3\Lab2Task3Lvl3\obj\Debug\netcoreapp3.0\Lab2Task3Lvl3.csprojAssemblyReference.cache

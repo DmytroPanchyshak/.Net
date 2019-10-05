@@ -1,0 +1,11 @@
+C:\Users\dsx\source\repos\Lab3Task3Lvl-MAX\Lab3Task3Lvl-MAX\bin\Release\netcoreapp3.0\Lab3Task3Lvl-MAX.exe
+C:\Users\dsx\source\repos\Lab3Task3Lvl-MAX\Lab3Task3Lvl-MAX\bin\Release\netcoreapp3.0\Lab3Task3Lvl-MAX.deps.json
+C:\Users\dsx\source\repos\Lab3Task3Lvl-MAX\Lab3Task3Lvl-MAX\bin\Release\netcoreapp3.0\Lab3Task3Lvl-MAX.runtimeconfig.json
+C:\Users\dsx\source\repos\Lab3Task3Lvl-MAX\Lab3Task3Lvl-MAX\bin\Release\netcoreapp3.0\Lab3Task3Lvl-MAX.runtimeconfig.dev.json
+C:\Users\dsx\source\repos\Lab3Task3Lvl-MAX\Lab3Task3Lvl-MAX\bin\Release\netcoreapp3.0\Lab3Task3Lvl-MAX.dll
+C:\Users\dsx\source\repos\Lab3Task3Lvl-MAX\Lab3Task3Lvl-MAX\bin\Release\netcoreapp3.0\Lab3Task3Lvl-MAX.pdb
+C:\Users\dsx\source\repos\Lab3Task3Lvl-MAX\Lab3Task3Lvl-MAX\obj\Release\netcoreapp3.0\Lab3Task3Lvl-MAX.csprojAssemblyReference.cache
+C:\Users\dsx\source\repos\Lab3Task3Lvl-MAX\Lab3Task3Lvl-MAX\obj\Release\netcoreapp3.0\Lab3Task3Lvl-MAX.AssemblyInfoInputs.cache
+C:\Users\dsx\source\repos\Lab3Task3Lvl-MAX\Lab3Task3Lvl-MAX\obj\Release\netcoreapp3.0\Lab3Task3Lvl-MAX.AssemblyInfo.cs
+C:\Users\dsx\source\repos\Lab3Task3Lvl-MAX\Lab3Task3Lvl-MAX\obj\Release\netcoreapp3.0\Lab3Task3Lvl-MAX.dll
+C:\Users\dsx\source\repos\Lab3Task3Lvl-MAX\Lab3Task3Lvl-MAX\obj\Release\netcoreapp3.0\Lab3Task3Lvl-MAX.pdb
